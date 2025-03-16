@@ -1,4 +1,4 @@
-# 🚀 Codeforces Daily Contests/Questions Solutions
+# 🚀 Codeforces Daily Contests Solutions
 
 Welcome to my **Codeforces Solutions Repository!** This space is dedicated to documenting my journey in solving competitive programming challenges, with a focus on **efficiency, logic, and algorithmic depth.**
 
