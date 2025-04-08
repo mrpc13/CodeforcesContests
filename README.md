@@ -13,10 +13,12 @@ Welcome to my **Codeforces Solutions Repository!** This space is dedicated to do
 
 ---
 
+
 ## 🔥 Why This Matters?  
 Competitive programming isn’t just about solving problems—it's about **thinking differently, approaching challenges logically, and writing efficient code.** Every day, I aim to push my boundaries and get better.
 
 ---
+
 
 ## 📚 Core Topics Explored  
 🔸 **Mathematical Algorithms** ➗  
@@ -27,10 +29,12 @@ Competitive programming isn’t just about solving problems—it's about **think
 
 ---
 
+
 ## 💡 Want to Collaborate?  
 Got a better approach? Found an alternative solution? **Let’s discuss and improve together!** Contributions are always welcome—submit a **Pull Request** or connect with me. 🚀  
 
 ---
+
 
 ## 🌟 Connect with Me! 🔗  
 🔹 **LinkedIn**: [Prakhar Chaudhary](https://www.linkedin.com/in/mrpc13)  
