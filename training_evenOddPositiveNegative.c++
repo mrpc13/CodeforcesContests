@@ -4,7 +4,6 @@ int main() {
     int num;
     cin >> num;
     int neg = 0, pos = 0, even = 0, odd = 0;
- 
     for (int i = 1; i <= num; i++) {
         int x;
         cin >> x;
