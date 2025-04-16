@@ -12,5 +12,5 @@ using namespace std;
         cout << "NOT";
     }
  
-    return 0;
+     return 0;
 }
