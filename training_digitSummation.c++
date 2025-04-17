@@ -6,4 +6,5 @@ int main(){
     long long l1=x%10;
     long long l2=y%10;
     cout<<l1+l2;
+
 }
