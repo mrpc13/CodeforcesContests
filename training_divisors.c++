@@ -7,4 +7,5 @@ int main(){
         if(num%i==0)
         cout<<i<<endl;
     }
+    return 0;
 }
