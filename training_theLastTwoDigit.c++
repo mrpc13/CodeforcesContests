@@ -6,7 +6,6 @@ int main()
   cin>>a>>b>>c>>d;
   long long mod = 100;
     long long mul = 1;
- 
     mul = (mul * (a % mod)) % mod;
     mul = (mul * (b % mod)) % mod;
     mul = (mul * (c % mod)) % mod;
