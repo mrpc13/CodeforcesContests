@@ -6,7 +6,7 @@ using namespace std;
     
     cin >> n1 >> s1 >> n2 >> s2;
  
-    if (s1 == s2) {
+   if (s1 == s2) {
         cout << "ARE Brothers";
     } else {
         cout << "NOT";
